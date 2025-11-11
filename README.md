@@ -2,7 +2,7 @@
 
 ## Identitas
 Dyah Ghaniya Putri  
-H1D023022 
+H1D023022
 Praktikum Pemrograman Mobile  
 Shift F/A
 
