@@ -1,10 +1,11 @@
 # Tugas 6 Flutter - Passing Data antar Halaman
 
 ## Identitas
-Dyah Ghaniya Putri  
-H1D023022
-Praktikum Pemrograman Mobile  
-Shift F/A
+**Nama:** Dyah Ghaniya Putri  
+**NIM:** H1D023022  
+**Mata Kuliah:** Praktikum Pemrograman Mobile  
+**Shift:** F/A  
+
 
 ---
 
